@@ -1,5 +1,5 @@
 {
   "files": {
-    "tmi": {"file": "tmi.js"}
+    "tmi": {"file": "https://github.com/tmijs/tmi.js/releases/download/v1.8.5/tmi.min.js"}
   }
 }
