@@ -1,3 +1,5 @@
 {
-  "file": []
+  "files": [
+    {"name": "tmi", "file": "tmi,js"}
+  ]
 }
