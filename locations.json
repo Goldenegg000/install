@@ -7,5 +7,19 @@
                 "location": ""
             }
         ]
+    },
+    "html": {
+        "files": [
+            {
+                "type": "file",
+                "url": "https://raw.githubusercontent.com/Goldenegg000/pget/main/defaulthtml/index.html",
+                "location": ""
+            },
+            {
+                "type": "file",
+                "url": "https://raw.githubusercontent.com/Goldenegg000/pget/main/defaulthtml/script.js",
+                "location": ""
+            }
+        ]
     }
 }
