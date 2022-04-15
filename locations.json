@@ -21,5 +21,14 @@
                 "location": ""
             }
         ]
+    },
+    "jquery": {
+        "files": [
+            {
+                "type": "file",
+                "url": "https://code.jquery.com/jquery-3.6.0.min.js",
+                "location": ""
+            }
+         ]
     }
 }
